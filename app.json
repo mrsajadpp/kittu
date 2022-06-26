@@ -1,0 +1,7 @@
+{
+  "name": "Kittu",
+  "description": "Discord Bot built with discord.js",
+  "repository": "https://github.com/mrsajadpp/kittu",
+  "logo": "https://drive.google.com/uc?export=download&id=1aZjnHOECyUFhbfAtGhJ0lLsZpiIHVuoI",
+  "keywords": ["discord", "discordjs",  "bot"]
+}
